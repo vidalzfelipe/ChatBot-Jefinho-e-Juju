@@ -69,6 +69,6 @@ A estrutura do projeto é a seguinte:
 
 ## 🔗 Links
 
-- [Repositório no GitHub](https://github.com/vidalzfelipe/ChatBot-Jefinho-e-Juju)
+- [ChatBOT Juju e Jefinho](http://wa.me/557136164656)
 
 
