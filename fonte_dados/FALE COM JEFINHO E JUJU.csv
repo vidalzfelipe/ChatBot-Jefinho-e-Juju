@@ -1,5 +1,4 @@
 Palavra-Chave,Respostas
-Palavra-Chave,Respostas
 Olá,"Olá, sou a *Juju* 🙎🏽, atendente virtual da Justiça Federal da Bahia.  
 Se quiser falar comigo, digite *Ju*.
 Se quiser falar com o atendente virtual do Juizado Especial Federal, digite *JEF*.
@@ -73,9 +72,9 @@ Pode também acessar o nosso *site* no link  https://www.trf1.jus.br/sjba/home/"
 jef,"Olá, sou o JEFinho 🧔🏻, atendente virtual do JEF.
 Digite:
 
-1️⃣ Para Auxílio Emergencial
+1️⃣ *Para consulta detalhada do processo do JEF* 🤖
 2️⃣ Para entrar com uma ação.
-3️⃣ Para consulta de processo.
+3️⃣ Para informações sobre processos.
 4️⃣ Para outros canais de atendimento do JEF.
 5️⃣ Para os contatos das Varas de JEF.
 6️⃣ Para consulta de RPV ou PRECATÓRIO. 
@@ -88,9 +87,9 @@ Para voltar a este menu, digite *JEF* a qualquer tempo. Precisando de mais infor
 jefinho,"Olá, sou o JEFinho 🧔🏻, atendente virtual do JEF.
 Digite:
 
-1️⃣ Para Auxílio Emergencial
+1️⃣ *Para consulta detalhada do processo do JEF* 🤖
 2️⃣ Para entrar com uma ação.
-3️⃣ Para consulta de processo.
+3️⃣ Para informações sobre processos.
 4️⃣ Para outros canais de atendimento do JEF.
 5️⃣ Para os contatos das Varas de JEF.
 6️⃣ Para consulta de RPV ou PRECATÓRIO. 
@@ -103,9 +102,9 @@ Para voltar a este menu, digite *JEF* a qualquer tempo. Precisando de mais infor
 juizado,"Olá, sou o JEFinho 🧔🏻, atendente virtual do JEF.
 Digite:
 
-1️⃣ Para Auxílio Emergencial
+1️⃣ *Para consulta detalhada do processo do JEF* 🤖
 2️⃣ Para entrar com uma ação.
-3️⃣ Para consulta de processo.
+3️⃣ Para informações sobre processos.
 4️⃣ Para outros canais de atendimento do JEF.
 5️⃣ Para os contatos das Varas de JEF.
 6️⃣ Para consulta de RPV ou PRECATÓRIO. 
@@ -115,15 +114,10 @@ Digite:
 
 
 Para voltar a este menu, digite *JEF* a qualquer tempo. Precisando de mais informações sobre a SJBA, digite *Ju*🙎🏽."
-1,"🧔🏻 Consulte a situação do seu Auxílio Emergencial no site da Dataprev, clicando em https://consultaauxilio.dataprev.gov.br/consulta/#/
-
-Para *entrar com um processo* solicitando o Auxílio Emergencial, primeiro leia as instruções 📄 no link https://www.trf1.jus.br/trf1/atermacao-on-line/atermacao-online
-
-*Para fazer o pedido*, preencha o formulário 📋 no link https://sistemas.trf1.jus.br/atermacao/. 
-
-Se você já deu entrada no processo e quer *saber o andamento* dele, consulte no link https://pje1g.trf1.jus.br/consultapublica/ConsultaPublica/listView.seam 
-
-_A Justiça Federal trabalha com os processos obedecendo a ordem cronológica de conclusão. Se o seu processo está concluso, aguarde e volte a consultá-lo nesse mesmo canal de atendimento._"
+1,"🧔🏻 Para consulta detalhada do seu processo do JEF, clique no link: 
+https://wa.me/557734238934"
+consulta detalhada,"🧔🏻 Para consulta detalhada do seu processo do JEF, clique no link: 
+https://wa.me/557734238934"
 2,"🧔🏻Para dar entrada no seu processo no Juizado Especial Federal (contra *INSS*, *Caixa*, *União*, *Correios*, ou outros), sem advogado ou Defensor Público, o seu pedido deve ser feito através do link https://www.trf1.jus.br/trf1/atermacao-on-line/atermacao-online 
 
 Se preferir abrir um processo com *Defensor Público da União* ou precise de orientações jurídicas sobre processo em andamento (ex: o que deve fazer, como proceder), entre em contato com a *DPU* clicando em https://www.dpu.def.br/endereco-bahia  
@@ -163,7 +157,9 @@ Voce também pode consultar o andamento do seu processo nos links abaixo:
 
 Se quiser ser informado toda vez que seu processo for movimentado, cadastre-se no *Sistema Push do PJE* no link https://pje1g.trf1.jus.br/pje/Push/loginPush.seam  e/ou no *Sistema Push do Processual* no link https://portal.trf1.jus.br/Processos/Push/ 
 
-Se quiser entrar em contato com a Vara onde o seu processo está tramitando, consulte os canais de contato no link https://www.trf1.jus.br/sjba/atendimento/plantao-judicial-atendimento-ao-publico-externo ou digite 4️⃣. Se for de Subseção, digite *INTERIOR*"
+Se quiser entrar em contato com a Vara onde o seu processo está tramitando, consulte os canais de contato no link https://www.trf1.jus.br/sjba/atendimento/plantao-judicial-atendimento-ao-publico-externo ou digite 4️⃣. Se for de Subseção, digite *INTERIOR*
+
+Se quiser uma consulta detalhada a respeito do seu processo clique no link https://wa.me/557734238934 ou digite  1️⃣."
 4,"🧔🏻Você também pode entrar em contato com *Setor de Atermação do JEF* em Salvador através dos telefones abaixo.
 
 📱 (71) 3616-4331 das 09h às 15h
@@ -375,7 +371,29 @@ Mas se você já deu entrada no seu pedido de Auxílio Emergencial e quer saber 
 _A Justiça Federal trabalha com os processos obedecendo a ordem cronológica de conclusão. Se o seu processo está concluso, aguarde e volte a consultá-lo nesse mesmo canal de atendimento._
 
 Se preferir, digite *JEF* e fale com o Jefinho 🧔🏻."
+auxilio emergencial,"🙎🏽 Consulte a situação do seu Auxílio Emergencial no site da Dataprev, clicando em https://consultaauxilio.dataprev.gov.br/consulta/#/
+
+Para *entrar com um processo* solicitando o Auxílio Emergencial, primeiro leia as instruções 📄 no link https://www.trf1.jus.br/trf1/atermacao-on-line/atermacao-online
+
+Para fazer o pedido, preencha o formulário 📋 no link https://sistemas.trf1.jus.br/atermacao/.
+
+Mas se você já deu entrada no seu pedido de Auxílio Emergencial e quer saber o andamento do seu processo, clique no link https://pje1g.trf1.jus.br/consultapublica/ConsultaPublica/listView.seam e consulte por *CPF* ou pelo número do *processo*
+
+_A Justiça Federal trabalha com os processos obedecendo a ordem cronológica de conclusão. Se o seu processo está concluso, aguarde e volte a consultá-lo nesse mesmo canal de atendimento._
+
+Se preferir, digite *JEF* e fale com o Jefinho 🧔🏻."
 Auxílio,"🙎🏽 Consulte a situação do seu Auxílio Emergencial no site da Dataprev, clicando em https://consultaauxilio.dataprev.gov.br/consulta/#/
+
+Para *entrar com um processo* solicitando o Auxílio Emergencial, primeiro leia as instruções 📄 no link https://www.trf1.jus.br/trf1/atermacao-on-line/atermacao-online
+
+Para fazer o pedido, preencha o formulário 📋 no link https://sistemas.trf1.jus.br/atermacao/.
+
+Mas se você já deu entrada no seu pedido de Auxílio Emergencial e quer saber o andamento do seu processo, clique no link https://pje1g.trf1.jus.br/consultapublica/ConsultaPublica/listView.seam e consulte por *CPF* ou pelo número do *processo*
+
+_A Justiça Federal trabalha com os processos obedecendo a ordem cronológica de conclusão. Se o seu processo está concluso, aguarde e volte a consultá-lo nesse mesmo canal de atendimento._
+
+Se preferir, digite *JEF* e fale com o Jefinho 🧔🏻."
+Auxilio,"🙎🏽 Consulte a situação do seu Auxílio Emergencial no site da Dataprev, clicando em https://consultaauxilio.dataprev.gov.br/consulta/#/
 
 Para *entrar com um processo* solicitando o Auxílio Emergencial, primeiro leia as instruções 📄 no link https://www.trf1.jus.br/trf1/atermacao-on-line/atermacao-online
 
@@ -403,35 +421,35 @@ Acompanhe o andamento da RPV/Precatório na aba _""MOVIMENTAÇÃO""_.
 
 A movimentação _""40510-VALOR DEPOSITADO""_, indica que o valor está disponível para saque em qualquer agência do banco informado.
 
-Caso o RPV/Precatório não tiver sido expedido, vc verá a mensagem: *Nenhum registro encontrado para o CPF/CNPJ informado.*"
+Caso o RPV/Precatório não tenha sido expedido, vc verá a mensagem: *Nenhum registro encontrado para o CPF/CNPJ informado.*"
 precatório,"🙎🏽 Para consultar o andamento da *RPV* ou do *Precatório* expedido, acesse o link: https://processual.trf1.jus.br/consultaProcessual/cpfCnpjParte.php?secao=TRF1 e preencha o campo _""CPF ou CNPJ da parte""_ com o seu *CPF* e clique em _""Pesquisar""_.
 
 Acompanhe o andamento da RPV/Precatório na aba _""MOVIMENTAÇÃO""_. 
 
 A movimentação _""40510-VALOR DEPOSITADO""_, indica que o valor está disponível para saque em qualquer agência do banco informado.
 
-Caso o RPV/Precatório não tiver sido expedido, vc verá a mensagem: *Nenhum registro encontrado para o CPF/CNPJ informado.*"
+Caso o RPV/Precatório não tenha sido expedido, vc verá a mensagem: *Nenhum registro encontrado para o CPF/CNPJ informado.*"
 precatorio,"🙎🏽 Para consultar o andamento da *RPV* ou do *Precatório* expedido, acesse o link: https://processual.trf1.jus.br/consultaProcessual/cpfCnpjParte.php?secao=TRF1 e preencha o campo _""CPF ou CNPJ da parte""_ com o seu *CPF* e clique em _""Pesquisar""_.
 
 Acompanhe o andamento da RPV/Precatório na aba _""MOVIMENTAÇÃO""_. 
 
 A movimentação _""40510-VALOR DEPOSITADO""_, indica que o valor está disponível para saque em qualquer agência do banco informado.
 
-Caso o RPV/Precatório não tiver sido expedido, vc verá a mensagem: *Nenhum registro encontrado para o CPF/CNPJ informado.*"
+Caso o RPV/Precatório não tenha sido expedido, vc verá a mensagem: *Nenhum registro encontrado para o CPF/CNPJ informado.*"
 precatórios,"🙎🏽 Para consultar o andamento da *RPV* ou do *Precatório* expedido, acesse o link: https://processual.trf1.jus.br/consultaProcessual/cpfCnpjParte.php?secao=TRF1 e preencha o campo _""CPF ou CNPJ da parte""_ com o seu *CPF* e clique em _""Pesquisar""_.
 
 Acompanhe o andamento da RPV/Precatório na aba _""MOVIMENTAÇÃO""_. 
 
 A movimentação _""40510-VALOR DEPOSITADO""_, indica que o valor está disponível para saque em qualquer agência do banco informado.
 
-Caso o RPV/Precatório não tiver sido expedido, vc verá a mensagem: *Nenhum registro encontrado para o CPF/CNPJ informado.*"
+Caso o RPV/Precatório não tenha sido expedido, vc verá a mensagem: *Nenhum registro encontrado para o CPF/CNPJ informado.*"
 precatorios,"🙎🏽 Para consultar o andamento da *RPV* ou do *Precatório* expedido, acesse o link: https://processual.trf1.jus.br/consultaProcessual/cpfCnpjParte.php?secao=TRF1 e preencha o campo _""CPF ou CNPJ da parte""_ com o seu *CPF* e clique em _""Pesquisar""_.
 
 Acompanhe o andamento da RPV/Precatório na aba _""MOVIMENTAÇÃO""_. 
 
 A movimentação _""40510-VALOR DEPOSITADO""_, indica que o valor está disponível para saque em qualquer agência do banco informado.
 
-Caso o RPV/Precatório não tiver sido expedido, vc verá a mensagem: *Nenhum registro encontrado para o CPF/CNPJ informado.*"
+Caso o RPV/Precatório não tenha sido expedido, vc verá a mensagem: *Nenhum registro encontrado para o CPF/CNPJ informado.*"
 arquivo,"🙎🏽 Para obter *cópia de peça de um processo arquivado em Salvador*, o(a) advogado(a) deverá encaminhar e-mail para sedaj.ba@trf1.jus.br 
 
 Caso precise de *provimento judicial ou vista dos autos físicos arquivados*, o(a) advogado(a) deverá solicitar ao *Juiz da Vara, por e-mail*. Verifique os contatos no link https://www.trf1.jus.br/sjba/atendimento/plantao-judicial-atendimento-ao-publico-externo ou digite *Vara*."
@@ -529,6 +547,8 @@ obrigada!,"🙋🏽 Agradeço o contato!
 Se puder, avalie este atendimento no link https://forms.gle/dT4jcRsHxrQtMhEE7"
 processo,"🙎🏽 Para saber se o seu processo já está distribuído na JFBA, preencha o campo com o seu *CPF* no link https://pje1g.trf1.jus.br/consultapublica/ConsultaPublica/listView.seam  e clique em *PESQUISAR*. 
 
+🧔🏻 Para consulta detalhada do seu *processo do JEF*, clique no link: https://wa.me/557734238934  
+
 Voce também pode *consultar o andamento do seu processo* nos links abaixo: 
 *PJe* - https://pje1g.trf1.jus.br/consultapublica/ConsultaPublica/listView.seam 
 
@@ -540,6 +560,8 @@ Se quiser entrar em contato com a Vara onde o seu processo está tramitando, dig
 
 _A Justiça Federal trabalha com os processos obedecendo a ordem cronológica de conclusão. Se o seu processo está concluso, aguarde e volte a consultá-lo nesse mesmo canal de atendimento._"
 consulta processual,"🙎🏽 Para saber se o seu processo já está distribuído na JFBA, preencha o campo com o seu *CPF* no link https://pje1g.trf1.jus.br/consultapublica/ConsultaPublica/listView.seam  e clique em *PESQUISAR*. 
+
+🧔🏻 Para consulta detalhada do seu *processo do JEF*, clique no link: https://wa.me/557734238934  
 
 Voce também pode *consultar o andamento do seu processo* nos links abaixo: 
 *PJe* - https://pje1g.trf1.jus.br/consultapublica/ConsultaPublica/listView.seam 
@@ -553,6 +575,8 @@ Se quiser entrar em contato com a Vara onde o seu processo está tramitando, dig
 _A Justiça Federal trabalha com os processos obedecendo a ordem cronológica de conclusão. Se o seu processo está concluso, aguarde e volte a consultá-lo nesse mesmo canal de atendimento._"
 consulta,"🙎🏽 Para saber se o seu processo já está distribuído na JFBA, preencha o campo com o seu *CPF* no link https://pje1g.trf1.jus.br/consultapublica/ConsultaPublica/listView.seam  e clique em *PESQUISAR*. 
 
+🧔🏻 Para consulta detalhada do seu *processo do JEF*, clique no link: https://wa.me/557734238934  
+
 Voce também pode *consultar o andamento do seu processo* nos links abaixo: 
 *PJe* - https://pje1g.trf1.jus.br/consultapublica/ConsultaPublica/listView.seam 
 
@@ -565,6 +589,8 @@ Se quiser entrar em contato com a Vara onde o seu processo está tramitando, dig
 _A Justiça Federal trabalha com os processos obedecendo a ordem cronológica de conclusão. Se o seu processo está concluso, aguarde e volte a consultá-lo nesse mesmo canal de atendimento._"
 processos,"🙎🏽 Para saber se o seu processo já está distribuído na JFBA, preencha o campo com o seu *CPF* no link https://pje1g.trf1.jus.br/consultapublica/ConsultaPublica/listView.seam  e clique em *PESQUISAR*. 
 
+🧔🏻 Para consulta detalhada do seu *processo do JEF*, clique no link: https://wa.me/557734238934  
+
 Voce também pode *consultar o andamento do seu processo* nos links abaixo: 
 *PJe* - https://pje1g.trf1.jus.br/consultapublica/ConsultaPublica/listView.seam 
 
@@ -576,6 +602,64 @@ Se quiser entrar em contato com a Vara onde o seu processo está tramitando, dig
 
 _A Justiça Federal trabalha com os processos obedecendo a ordem cronológica de conclusão. Se o seu processo está concluso, aguarde e volte a consultá-lo nesse mesmo canal de atendimento._"
 consultas,"🙎🏽 Para saber se o seu processo já está distribuído na JFBA, preencha o campo com o seu *CPF* no link https://pje1g.trf1.jus.br/consultapublica/ConsultaPublica/listView.seam  e clique em *PESQUISAR*. 
+
+🧔🏻 Para consulta detalhada do seu *processo do JEF*, clique no link: https://wa.me/557734238934  
+
+Voce também pode *consultar o andamento do seu processo* nos links abaixo: 
+*PJe* - https://pje1g.trf1.jus.br/consultapublica/ConsultaPublica/listView.seam 
+
+*Processual* - https://processual.trf1.jus.br/consultaProcessual/numeroProcesso.php?secao=BA&enviar=ok 
+
+Se quiser ser informado por 📧 toda vez que seu processo for movimentado, cadastre-se no *Sistema Push do PJE* no link https://pje1g.trf1.jus.br/pje/Push/loginPush.seam  e/ou no *Sistema Push do Processual* no link https://portal.trf1.jus.br/Processos/Push/   
+
+Se quiser entrar em contato com a Vara onde o seu processo está tramitando, digite *vara*.
+
+_A Justiça Federal trabalha com os processos obedecendo a ordem cronológica de conclusão. Se o seu processo está concluso, aguarde e volte a consultá-lo nesse mesmo canal de atendimento._"
+consulta processo,"🙎🏽 Para saber se o seu processo já está distribuído na JFBA, preencha o campo com o seu *CPF* no link https://pje1g.trf1.jus.br/consultapublica/ConsultaPublica/listView.seam  e clique em *PESQUISAR*. 
+
+🧔🏻 Para consulta detalhada do seu *processo do JEF*, clique no link: https://wa.me/557734238934  
+
+Voce também pode *consultar o andamento do seu processo* nos links abaixo: 
+*PJe* - https://pje1g.trf1.jus.br/consultapublica/ConsultaPublica/listView.seam 
+
+*Processual* - https://processual.trf1.jus.br/consultaProcessual/numeroProcesso.php?secao=BA&enviar=ok 
+
+Se quiser ser informado por 📧 toda vez que seu processo for movimentado, cadastre-se no *Sistema Push do PJE* no link https://pje1g.trf1.jus.br/pje/Push/loginPush.seam  e/ou no *Sistema Push do Processual* no link https://portal.trf1.jus.br/Processos/Push/   
+
+Se quiser entrar em contato com a Vara onde o seu processo está tramitando, digite *vara*.
+
+_A Justiça Federal trabalha com os processos obedecendo a ordem cronológica de conclusão. Se o seu processo está concluso, aguarde e volte a consultá-lo nesse mesmo canal de atendimento._"
+consultar meu processo,"🙎🏽 Para saber se o seu processo já está distribuído na JFBA, preencha o campo com o seu *CPF* no link https://pje1g.trf1.jus.br/consultapublica/ConsultaPublica/listView.seam  e clique em *PESQUISAR*. 
+
+🧔🏻 Para consulta detalhada do seu *processo do JEF*, clique no link: https://wa.me/557734238934  
+
+Voce também pode *consultar o andamento do seu processo* nos links abaixo: 
+*PJe* - https://pje1g.trf1.jus.br/consultapublica/ConsultaPublica/listView.seam 
+
+*Processual* - https://processual.trf1.jus.br/consultaProcessual/numeroProcesso.php?secao=BA&enviar=ok 
+
+Se quiser ser informado por 📧 toda vez que seu processo for movimentado, cadastre-se no *Sistema Push do PJE* no link https://pje1g.trf1.jus.br/pje/Push/loginPush.seam  e/ou no *Sistema Push do Processual* no link https://portal.trf1.jus.br/Processos/Push/   
+
+Se quiser entrar em contato com a Vara onde o seu processo está tramitando, digite *vara*.
+
+_A Justiça Federal trabalha com os processos obedecendo a ordem cronológica de conclusão. Se o seu processo está concluso, aguarde e volte a consultá-lo nesse mesmo canal de atendimento._"
+meu processo,"🙎🏽 Para saber se o seu processo já está distribuído na JFBA, preencha o campo com o seu *CPF* no link https://pje1g.trf1.jus.br/consultapublica/ConsultaPublica/listView.seam  e clique em *PESQUISAR*. 
+
+🧔🏻 Para consulta detalhada do seu *processo do JEF*, clique no link: https://wa.me/557734238934  
+
+Voce também pode *consultar o andamento do seu processo* nos links abaixo: 
+*PJe* - https://pje1g.trf1.jus.br/consultapublica/ConsultaPublica/listView.seam 
+
+*Processual* - https://processual.trf1.jus.br/consultaProcessual/numeroProcesso.php?secao=BA&enviar=ok 
+
+Se quiser ser informado por 📧 toda vez que seu processo for movimentado, cadastre-se no *Sistema Push do PJE* no link https://pje1g.trf1.jus.br/pje/Push/loginPush.seam  e/ou no *Sistema Push do Processual* no link https://portal.trf1.jus.br/Processos/Push/   
+
+Se quiser entrar em contato com a Vara onde o seu processo está tramitando, digite *vara*.
+
+_A Justiça Federal trabalha com os processos obedecendo a ordem cronológica de conclusão. Se o seu processo está concluso, aguarde e volte a consultá-lo nesse mesmo canal de atendimento._"
+pocesso,"🙎🏽 Para saber se o seu processo já está distribuído na JFBA, preencha o campo com o seu *CPF* no link https://pje1g.trf1.jus.br/consultapublica/ConsultaPublica/listView.seam  e clique em *PESQUISAR*. 
+
+🧔🏻 Para consulta detalhada do seu *processo do JEF*, clique no link: https://wa.me/557734238934  
 
 Voce também pode *consultar o andamento do seu processo* nos links abaixo: 
 *PJe* - https://pje1g.trf1.jus.br/consultapublica/ConsultaPublica/listView.seam 
@@ -691,7 +775,10 @@ contadoria,"🙎🏽 *TABELA DE CUSTAS PROCESSUAIS* - Visualizar a  Tabela de cu
 🙎🏽 *DADOS PARA PREENCHIMENTO DA GRU* - Código de Unidade Gestora/Gestão https://www.trf1.jus.br/sjba/processual/calculos-custas-e-despesas-processuais  
 Clicar em *Dados para preenchimento da GRU*
 
-🙎🏽 *MANUAL DE CÁLCULOS DA JUSTIÇA FEDERAL/CNJ E TABELA DE CORREÇÃO MONETÁRIA* - Clique no link https://www.trf1.jus.br/trf1/conteudo/codigo/manual_de_calculos_revisado_ultima_versao_com_resolucao_e_apresentacao.pdfhp"
+🙎🏽 *MANUAL DE CÁLCULOS DA JUSTIÇA FEDERAL/CNJ E TABELA DE CORREÇÃO MONETÁRIA* - Clique no link https://www.trf1.jus.br/trf1/conteudo/codigo/manual_de_calculos_revisado_ultima_versao_com_resolucao_e_apresentacao.pdfhp 
+ 
+🙎🏽 *CONSULTA RECOLHIMENTO DE CUSTAS* - A consulta de recolhimento de custas judiciais da Justiça Federal pode ser feita no site do Supremo Tribunal Federal (STF): https://portal.stf.jus.br/recolhimentoDeCustas/verificaPagamentos.asp
+Informe o CPF ou CNPJ do responsável pelo pagamento e o número de referência, que é a chave identificadora da forma de recolhimento"
 cálculos,"🙎🏽 *TABELA DE CUSTAS PROCESSUAIS* - Visualizar a  Tabela de custas no link https://www.trf1.jus.br/trf1/processual/calculo-de-custas-e-despesas-processuais 
 
 🙎🏽 *CÁLCULO E CUSTAS PROCESSUAIS*  - Preencher formulário com dados do processo para gerar GRU no link https://portal.trf1.jus.br/Processos/CalculoDeCustas/index.php 
@@ -701,7 +788,10 @@ cálculos,"🙎🏽 *TABELA DE CUSTAS PROCESSUAIS* - Visualizar a  Tabela de cus
 🙎🏽 *DADOS PARA PREENCHIMENTO DA GRU* - Código de Unidade Gestora/Gestão https://www.trf1.jus.br/sjba/processual/calculos-custas-e-despesas-processuais  
 Clicar em *Dados para preenchimento da GRU*
 
-🙎🏽 *MANUAL DE CÁLCULOS DA JUSTIÇA FEDERAL/CNJ E TABELA DE CORREÇÃO MONETÁRIA* - Clique no link https://www.trf1.jus.br/trf1/conteudo/codigo/manual_de_calculos_revisado_ultima_versao_com_resolucao_e_apresentacao.pdfhp"
+🙎🏽 *MANUAL DE CÁLCULOS DA JUSTIÇA FEDERAL/CNJ E TABELA DE CORREÇÃO MONETÁRIA* - Clique no link https://www.trf1.jus.br/trf1/conteudo/codigo/manual_de_calculos_revisado_ultima_versao_com_resolucao_e_apresentacao.pdfhp 
+ 
+🙎🏽 *CONSULTA RECOLHIMENTO DE CUSTAS* - A consulta de recolhimento de custas judiciais da Justiça Federal pode ser feita no site do Supremo Tribunal Federal (STF): https://portal.stf.jus.br/recolhimentoDeCustas/verificaPagamentos.asp
+Informe o CPF ou CNPJ do responsável pelo pagamento e o número de referência, que é a chave identificadora da forma de recolhimento"
 custas,"🙎🏽 *TABELA DE CUSTAS PROCESSUAIS* - Visualizar a  Tabela de custas no link https://www.trf1.jus.br/trf1/processual/calculo-de-custas-e-despesas-processuais 
 
 🙎🏽 *CÁLCULO E CUSTAS PROCESSUAIS*  - Preencher formulário com dados do processo para gerar GRU no link https://portal.trf1.jus.br/Processos/CalculoDeCustas/index.php 
@@ -711,7 +801,10 @@ custas,"🙎🏽 *TABELA DE CUSTAS PROCESSUAIS* - Visualizar a  Tabela de custas
 🙎🏽 *DADOS PARA PREENCHIMENTO DA GRU* - Código de Unidade Gestora/Gestão https://www.trf1.jus.br/sjba/processual/calculos-custas-e-despesas-processuais  
 Clicar em *Dados para preenchimento da GRU*
 
-🙎🏽 *MANUAL DE CÁLCULOS DA JUSTIÇA FEDERAL/CNJ E TABELA DE CORREÇÃO MONETÁRIA* - Clique no link https://www.trf1.jus.br/trf1/conteudo/codigo/manual_de_calculos_revisado_ultima_versao_com_resolucao_e_apresentacao.pdfhp"
+🙎🏽 *MANUAL DE CÁLCULOS DA JUSTIÇA FEDERAL/CNJ E TABELA DE CORREÇÃO MONETÁRIA* - Clique no link https://www.trf1.jus.br/trf1/conteudo/codigo/manual_de_calculos_revisado_ultima_versao_com_resolucao_e_apresentacao.pdfhp 
+ 
+🙎🏽 *CONSULTA RECOLHIMENTO DE CUSTAS* - A consulta de recolhimento de custas judiciais da Justiça Federal pode ser feita no site do Supremo Tribunal Federal (STF): https://portal.stf.jus.br/recolhimentoDeCustas/verificaPagamentos.asp
+Informe o CPF ou CNPJ do responsável pelo pagamento e o número de referência, que é a chave identificadora da forma de recolhimento"
 custa,"🙎🏽 *TABELA DE CUSTAS PROCESSUAIS* - Visualizar a  Tabela de custas no link https://www.trf1.jus.br/trf1/processual/calculo-de-custas-e-despesas-processuais 
 
 🙎🏽 *CÁLCULO E CUSTAS PROCESSUAIS*  - Preencher formulário com dados do processo para gerar GRU no link https://portal.trf1.jus.br/Processos/CalculoDeCustas/index.php 
@@ -721,33 +814,34 @@ custa,"🙎🏽 *TABELA DE CUSTAS PROCESSUAIS* - Visualizar a  Tabela de custas 
 🙎🏽 *DADOS PARA PREENCHIMENTO DA GRU* - Código de Unidade Gestora/Gestão https://www.trf1.jus.br/sjba/processual/calculos-custas-e-despesas-processuais  
 Clicar em *Dados para preenchimento da GRU*
 
-🙎🏽 *MANUAL DE CÁLCULOS DA JUSTIÇA FEDERAL/CNJ E TABELA DE CORREÇÃO MONETÁRIA* - Clique no link https://www.trf1.jus.br/trf1/conteudo/codigo/manual_de_calculos_revisado_ultima_versao_com_resolucao_e_apresentacao.pdfhp"
+🙎🏽 *MANUAL DE CÁLCULOS DA JUSTIÇA FEDERAL/CNJ E TABELA DE CORREÇÃO MONETÁRIA* - Clique no link https://www.trf1.jus.br/trf1/conteudo/codigo/manual_de_calculos_revisado_ultima_versao_com_resolucao_e_apresentacao.pdfhp 
+ 
+🙎🏽 *CONSULTA RECOLHIMENTO DE CUSTAS* - A consulta de recolhimento de custas judiciais da Justiça Federal pode ser feita no site do Supremo Tribunal Federal (STF): https://portal.stf.jus.br/recolhimentoDeCustas/verificaPagamentos.asp
+Informe o CPF ou CNPJ do responsável pelo pagamento e o número de referência, que é a chave identificadora da forma de recolhimento"
 guia,🙎🏽 Você precisa de informações sobre Guia de *recolhimento* ou de *depósito*?
 guias,🙎🏽 Você precisa de informações sobre Guia de *recolhimento* ou de *depósito*?
-gru,"*Subseção Judiciária de Eunápolis*
-E-mail: 01vara.eus@trf1.jus.br 
+gru,"🙎🏽 *TABELA DE CUSTAS PROCESSUAIS* - Visualizar a Tabela de custas no link https://www.trf1.jus.br/trf1/conteudo/codigo/PortariaPresi298_2021_Consolidadaem26_07_2022%20_1_.pdf
 
-Telefones:  
-(73)   3261-7070
+🙎🏽 *CÁLCULO E CUSTAS PROCESSUAIS* - Preencher formulário com dados do processo para gerar GRU no link https://portal.trf1.jus.br/Processos/CalculoDeCustas/index.php
 
-Agendamento de *cargas/vistas processos físicos, mediante prévio agendamento* no site: https://outlook.office365.com/owa/calendar/SSJEUS01VARA1VaraFederaldeEunpolisBA@trf1.jus.br/bookings/ 
+🙎🏽 *G.R.U* Caso o link esteja indisponível, consultar site do Tesouro Nacional para preenchimento direto do formulário GRU https://pagtesouro.tesouro.gov.br/portal-gru/#/emissao-grup
 
-Balcão Virtual: *09 às 16h*https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-SSJdeEunapolis-VaraFederalCiveleCriminalal 
-Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
+🙎🏽 *DADOS PARA PREENCHIMENTO DA GRU* - Código de Unidade Gestora/Gestão https://www.trf1.jus.br/sjba/processual/calculos-custas-e-despesas-processuais
+Clicar em *Dados para preenchimento da GRU*
 
-Mais contatos no link https://www.trf1.jus.br/sjba/enderecos-e-telefones/subsecao-judiciaria-de-eunapolis"
-recolhimento,"*Subseção Judiciária de Eunápolis*
-E-mail: 01vara.eus@trf1.jus.br 
+🙎🏽 *CONSULTA RECOLHIMENTO DE CUSTAS* - A consulta de recolhimento de custas judiciais da Justiça Federal pode ser feita no site do Supremo Tribunal Federal (STF): https://portal.stf.jus.br/recolhimentoDeCustas/verificaPagamentos.asp
+ Informe o CPF ou CNPJ do responsável pelo pagamento e o número de referência, que é a chave identificadora da forma de recolhimento"
+recolhimento,"🙎🏽 *TABELA DE CUSTAS PROCESSUAIS* - Visualizar a Tabela de custas no link https://www.trf1.jus.br/trf1/conteudo/codigo/PortariaPresi298_2021_Consolidadaem26_07_2022%20_1_.pdf
 
-Telefones:  
-(73)   3261-7070
+🙎🏽 *CÁLCULO E CUSTAS PROCESSUAIS* - Preencher formulário com dados do processo para gerar GRU no link https://portal.trf1.jus.br/Processos/CalculoDeCustas/index.php
 
-Agendamento de *cargas/vistas processos físicos, mediante prévio agendamento* no site: https://outlook.office365.com/owa/calendar/SSJEUS01VARA1VaraFederaldeEunpolisBA@trf1.jus.br/bookings/ 
+🙎🏽 *G.R.U* Caso o link esteja indisponível, consultar site do Tesouro Nacional para preenchimento direto do formulário GRU https://pagtesouro.tesouro.gov.br/portal-gru/#/emissao-grup
 
-Balcão Virtual: *09 às 16h*https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-SSJdeEunapolis-VaraFederalCiveleCriminalal 
-Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
+🙎🏽 *DADOS PARA PREENCHIMENTO DA GRU* - Código de Unidade Gestora/Gestão https://www.trf1.jus.br/sjba/processual/calculos-custas-e-despesas-processuais
+Clicar em *Dados para preenchimento da GRU*
 
-Mais contatos no link https://www.trf1.jus.br/sjba/enderecos-e-telefones/subsecao-judiciaria-de-eunapolis"
+🙎🏽 *CONSULTA RECOLHIMENTO DE CUSTAS* - A consulta de recolhimento de custas judiciais da Justiça Federal pode ser feita no site do Supremo Tribunal Federal (STF): https://portal.stf.jus.br/recolhimentoDeCustas/verificaPagamentos.asp
+ Informe o CPF ou CNPJ do responsável pelo pagamento e o número de referência, que é a chave identificadora da forma de recolhimento"
 guia de depósito,"🙎🏽 *GUIA DE DEPÓSITO JUDICIAL* - (Artigos 244, 403 e 404 do Provimento COGER 10126799) 
 A guia de depósito judicial, cujo preenchimento é de responsabilidade do interessado, poderá ser gerada diretamente no site da Caixa Econômica Federal, acessando o link https://depositojudicial.caixa.gov.br/sigsj_internet/depositos-judiciais/justica-federal/"
 despósito judicial,"🙎🏽 *GUIA DE DEPÓSITO JUDICIAL* - (Artigos 244, 403 e 404 do Provimento COGER 10126799) 
@@ -830,6 +924,9 @@ E-mail: 05vara.ba@trf1.jus.br
 Telefone:  
 09:00h às 18:00h - (71) 3616-4655
 
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-05VaraFederaldeJuizadoEspecialCivel 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
 
@@ -840,6 +937,9 @@ E-mail: 05vara.ba@trf1.jus.br
 Telefone:  
 09:00h às 18:00h - (71) 3616-4655
 
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-05VaraFederaldeJuizadoEspecialCivel 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
 
@@ -849,6 +949,9 @@ E-mail: 05vara.ba@trf1.jus.br
 
 Telefone:  
 09:00h às 18:00h - (71) 3616-4655
+
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
 
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-05VaraFederaldeJuizadoEspecialCivel 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
@@ -860,6 +963,9 @@ E-mail: 05vara.ba@trf1.jus.br
 Telefone:  
 09:00h às 18:00h - (71) 3616-4655
 
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-05VaraFederaldeJuizadoEspecialCivel 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
 
@@ -869,6 +975,9 @@ E-mail: 05vara.ba@trf1.jus.br
 
 Telefone:  
 09:00h às 18:00h - (71) 3616-4655
+
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
 
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-05VaraFederaldeJuizadoEspecialCivel 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
@@ -880,6 +989,9 @@ E-mail: 05vara.ba@trf1.jus.br
 Telefone:  
 09:00h às 18:00h - (71) 3616-4655
 
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-05VaraFederaldeJuizadoEspecialCivel 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
 
@@ -889,6 +1001,9 @@ E-mail: 05vara.ba@trf1.jus.br
 
 Telefone:  
 09:00h às 18:00h - (71) 3616-4655
+
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
 
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-05VaraFederaldeJuizadoEspecialCivel 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
@@ -900,6 +1015,9 @@ E-mail: 05vara.ba@trf1.jus.br
 Telefone:  
 09:00h às 18:00h - (71) 3616-4655
 
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-05VaraFederaldeJuizadoEspecialCivel 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
 
@@ -909,6 +1027,9 @@ E-mail: 05vara.ba@trf1.jus.br
 
 Telefone:  
 09:00h às 18:00h - (71) 3616-4655
+
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
 
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-05VaraFederaldeJuizadoEspecialCivel 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
@@ -920,6 +1041,9 @@ E-mail: 05vara.ba@trf1.jus.br
 Telefone:  
 09:00h às 18:00h - (71) 3616-4655
 
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-05VaraFederaldeJuizadoEspecialCivel 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
 
@@ -929,6 +1053,9 @@ E-mail: sepip.09vara.ba@trf1.jus.br
 
 Telefone:  
 (71) 98526-0465
+
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
 
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-09VaraFederaldeJuizadoEspecialCivel 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
@@ -940,6 +1067,9 @@ E-mail: sepip.09vara.ba@trf1.jus.br
 Telefone:  
 (71) 98526-0465
 
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-09VaraFederaldeJuizadoEspecialCivel 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
 
@@ -949,6 +1079,9 @@ E-mail: sepip.09vara.ba@trf1.jus.br
 
 Telefone:  
 (71) 98526-0465
+
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
 
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-09VaraFederaldeJuizadoEspecialCivel 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
@@ -960,6 +1093,9 @@ E-mail: sepip.09vara.ba@trf1.jus.br
 Telefone:  
 (71) 98526-0465
 
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-09VaraFederaldeJuizadoEspecialCivel 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
 
@@ -969,6 +1105,9 @@ E-mail: sepip.09vara.ba@trf1.jus.br
 
 Telefone:  
 (71) 98526-0465
+
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
 
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-09VaraFederaldeJuizadoEspecialCivel 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
@@ -980,6 +1119,9 @@ E-mail: sepip.09vara.ba@trf1.jus.br
 Telefone:  
 (71) 98526-0465
 
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-09VaraFederaldeJuizadoEspecialCivel 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
 
@@ -989,6 +1131,9 @@ E-mail: sepip.09vara.ba@trf1.jus.br
 
 Telefone:  
 (71) 98526-0465
+
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
 
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-09VaraFederaldeJuizadoEspecialCivel 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
@@ -1000,6 +1145,9 @@ E-mail: sepip.09vara.ba@trf1.jus.br
 Telefone:  
 (71) 98526-0465
 
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-09VaraFederaldeJuizadoEspecialCivel 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
 
@@ -1010,6 +1158,9 @@ E-mail: sepip.09vara.ba@trf1.jus.br
 Telefone:  
 (71) 98526-0465
 
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-09VaraFederaldeJuizadoEspecialCivel 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
 
@@ -1019,6 +1170,9 @@ E-mail: sepip.09vara.ba@trf1.jus.br
 
 Telefone:  
 (71) 98526-0465
+
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
 
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-09VaraFederaldeJuizadoEspecialCivel 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
@@ -1034,6 +1188,9 @@ segundas-feiras, terças-feiras e quintas-feiras:
 
 quartas-feiras e sextas-feiras:
 (71) 99245-5445
+
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
 
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-15VaraFederaldeJuizadoEspecialCivel 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
@@ -1049,6 +1206,9 @@ segundas-feiras, terças-feiras e quintas-feiras:
 
 quartas-feiras e sextas-feiras:
 (71) 99245-5445
+
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
 
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-15VaraFederaldeJuizadoEspecialCivel 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
@@ -1064,6 +1224,9 @@ segundas-feiras, terças-feiras e quintas-feiras:
 
 quartas-feiras e sextas-feiras:
 (71) 99245-5445
+
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
 
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-15VaraFederaldeJuizadoEspecialCivel 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
@@ -1080,6 +1243,9 @@ segundas-feiras, terças-feiras e quintas-feiras:
 quartas-feiras e sextas-feiras:
 (71) 99245-5445
 
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-15VaraFederaldeJuizadoEspecialCivel 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
 
@@ -1094,6 +1260,9 @@ segundas-feiras, terças-feiras e quintas-feiras:
 
 quartas-feiras e sextas-feiras:
 (71) 99245-5445
+
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
 
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-15VaraFederaldeJuizadoEspecialCivel 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
@@ -1110,6 +1279,9 @@ segundas-feiras, terças-feiras e quintas-feiras:
 quartas-feiras e sextas-feiras:
 (71) 99245-5445
 
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-15VaraFederaldeJuizadoEspecialCivel 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
 
@@ -1124,6 +1296,9 @@ segundas-feiras, terças-feiras e quintas-feiras:
 
 quartas-feiras e sextas-feiras:
 (71) 99245-5445
+
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
 
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-15VaraFederaldeJuizadoEspecialCivel 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
@@ -1140,6 +1315,9 @@ segundas-feiras, terças-feiras e quintas-feiras:
 quartas-feiras e sextas-feiras:
 (71) 99245-5445
 
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-15VaraFederaldeJuizadoEspecialCivel 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
 
@@ -1155,6 +1333,9 @@ segundas-feiras, terças-feiras e quintas-feiras:
 quartas-feiras e sextas-feiras:
 (71) 99245-5445
 
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-15VaraFederaldeJuizadoEspecialCivel 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
 
@@ -1166,6 +1347,9 @@ Telefones:
 10:00h às 15:00h
 (71) 99189-9520
 
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-21VaraFederaldeJuizadoEspecialCivel 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
 
@@ -1177,6 +1361,9 @@ Telefones:
 10:00h às 15:00h
 (71) 99189-9520
 
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-21VaraFederaldeJuizadoEspecialCivel 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
 
@@ -1187,6 +1374,9 @@ E-mail: sepip.21vara.ba@trf1.jus.br
 Telefones:
 10:00h às 15:00h
 (71) 99189-9520
+
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
 
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-21VaraFederaldeJuizadoEspecialCivel 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
@@ -1199,16 +1389,8 @@ Telefones:
 10:00h às 15:00h
 (71) 99189-9520
 
-Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-21VaraFederaldeJuizadoEspecialCivel 
-Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
-
-Mais contatos no link: https://www.trf1.jus.br/sjba/enderecos-e-telefones/21-vara-jef"
-21VF,"*21ª Vara JEF*
-E-mail: sepip.21vara.ba@trf1.jus.br
-
-Telefones:
-10:00h às 15:00h
-(71) 99189-9520
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
 
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-21VaraFederaldeJuizadoEspecialCivel 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
@@ -1220,6 +1402,23 @@ E-mail: sepip.21vara.ba@trf1.jus.br
 Telefones:
 10:00h às 15:00h
 (71) 99189-9520
+
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
+Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-21VaraFederaldeJuizadoEspecialCivel 
+Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
+
+Mais contatos no link: https://www.trf1.jus.br/sjba/enderecos-e-telefones/21-vara-jef"
+21VF,"*21ª Vara JEF*
+E-mail: sepip.21vara.ba@trf1.jus.br
+
+Telefones:
+10:00h às 15:00h
+(71) 99189-9520
+
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
 
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-21VaraFederaldeJuizadoEspecialCivel 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
@@ -1232,6 +1431,9 @@ Telefones:
 10:00h às 15:00h
 (71) 99189-9520
 
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-21VaraFederaldeJuizadoEspecialCivel 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
 
@@ -1242,6 +1444,9 @@ E-mail: sepip.21vara.ba@trf1.jus.br
 Telefones:
 10:00h às 15:00h
 (71) 99189-9520
+
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
 
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-21VaraFederaldeJuizadoEspecialCivel 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
@@ -1254,6 +1459,9 @@ Telefones:
 10:00h às 15:00h
 (71) 99189-9520
 
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-21VaraFederaldeJuizadoEspecialCivel 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
 
@@ -1266,6 +1474,9 @@ Telefones:
 (71)   3616-4348
 (71) 98193-3494
 
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-22VaraFederaldeJuizadoEspecialCivel
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
 
@@ -1278,6 +1489,9 @@ Telefones:
 (71)   3616-4348
 (71) 98193-3494
 
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-22VaraFederaldeJuizadoEspecialCivel
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
 
@@ -1289,6 +1503,9 @@ Telefones:
 10:00h às 15:00h
 (71)   3616-4348
 (71) 98193-3494
+
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
 
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-22VaraFederaldeJuizadoEspecialCivel
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
@@ -1302,17 +1519,8 @@ Telefones:
 (71)   3616-4348
 (71) 98193-3494
 
-Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-22VaraFederaldeJuizadoEspecialCivel
-Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
-
-Mais contatos no link: https://www.trf1.jus.br/sjba/enderecos-e-telefones/22-vara-jef"
-22VF,"*22ª Vara JEF*
-E-mail: 22sepip.ba@trf1.jus.br
-
-Telefones:
-10:00h às 15:00h
-(71)   3616-4348
-(71) 98193-3494
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
 
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-22VaraFederaldeJuizadoEspecialCivel
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
@@ -1325,6 +1533,24 @@ Telefones:
 10:00h às 15:00h
 (71)   3616-4348
 (71) 98193-3494
+
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
+Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-22VaraFederaldeJuizadoEspecialCivel
+Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
+
+Mais contatos no link: https://www.trf1.jus.br/sjba/enderecos-e-telefones/22-vara-jef"
+22VF,"*22ª Vara JEF*
+E-mail: 22sepip.ba@trf1.jus.br
+
+Telefones:
+10:00h às 15:00h
+(71)   3616-4348
+(71) 98193-3494
+
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
 
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-22VaraFederaldeJuizadoEspecialCivel
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
@@ -1338,6 +1564,9 @@ Telefones:
 (71)   3616-4348
 (71) 98193-3494
 
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-22VaraFederaldeJuizadoEspecialCivel
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
 
@@ -1349,6 +1578,9 @@ Telefones:
 10:00h às 15:00h
 (71)   3616-4348
 (71) 98193-3494
+
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
 
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-22VaraFederaldeJuizadoEspecialCivel
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
@@ -1362,6 +1594,9 @@ Telefones:
 (71)   3616-4348
 (71) 98193-3494
 
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-22VaraFederaldeJuizadoEspecialCivel
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
 
@@ -1374,6 +1609,9 @@ Telefones:
 (71) 3616-4647
 (71) 3616-4349
 
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-23VaraFederaldeJuizadoEspecialCivel 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
 
@@ -1386,6 +1624,9 @@ Telefones:
 (71) 3616-4647
 (71) 3616-4349
 
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-23VaraFederaldeJuizadoEspecialCivel 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
 
@@ -1397,6 +1638,9 @@ Telefones:
 09:00h às 18:00h
 (71) 3616-4647
 (71) 3616-4349
+
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
 
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-23VaraFederaldeJuizadoEspecialCivel 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
@@ -1410,17 +1654,8 @@ Telefones:
 (71) 3616-4647
 (71) 3616-4349
 
-Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-23VaraFederaldeJuizadoEspecialCivel 
-Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
-
-Mais contatos no link: https://www.trf1.jus.br/sjba/enderecos-e-telefones/23-vara-jef"
-23VF,"*23ª Vara JEF*
-E-mail: 23sepip@trf1.jus.br
-
-Telefones:
-09:00h às 18:00h
-(71) 3616-4647
-(71) 3616-4349
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
 
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-23VaraFederaldeJuizadoEspecialCivel 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
@@ -1433,6 +1668,24 @@ Telefones:
 09:00h às 18:00h
 (71) 3616-4647
 (71) 3616-4349
+
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
+Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-23VaraFederaldeJuizadoEspecialCivel 
+Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
+
+Mais contatos no link: https://www.trf1.jus.br/sjba/enderecos-e-telefones/23-vara-jef"
+23VF,"*23ª Vara JEF*
+E-mail: 23sepip@trf1.jus.br
+
+Telefones:
+09:00h às 18:00h
+(71) 3616-4647
+(71) 3616-4349
+
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
 
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-23VaraFederaldeJuizadoEspecialCivel 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
@@ -1446,6 +1699,9 @@ Telefones:
 (71) 3616-4647
 (71) 3616-4349
 
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-23VaraFederaldeJuizadoEspecialCivel 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
 
@@ -1457,6 +1713,9 @@ Telefones:
 09:00h às 18:00h
 (71) 3616-4647
 (71) 3616-4349
+
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
 
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-23VaraFederaldeJuizadoEspecialCivel 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
@@ -1470,6 +1729,9 @@ Telefones:
 (71) 3616-4647
 (71) 3616-4349
 
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-23VaraFederaldeJuizadoEspecialCivel 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
 
@@ -1480,6 +1742,9 @@ E-mail: 01vara.alh@trf1.jus.br
 Telefones:  
 (75) 98864-6553
 (75)   3422-6729
+
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
 
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-SSJdeAlagoinhas-VaraFederalCiveleCriminal 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
@@ -1492,6 +1757,9 @@ Telefones:
 (75) 98864-6553
 (75)   3422-6729
 
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-SSJdeAlagoinhas-VaraFederalCiveleCriminal 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
 
@@ -1501,6 +1769,9 @@ E-mail: 01vara.bes@trf1.jus.br
 
 Telefone:  
 (77) 3611-8896
+
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
 
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-SSJdeBarreiras-VaraFederalCiveleCriminal 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
@@ -1512,6 +1783,9 @@ E-mail: 01vara.bes@trf1.jus.br
 Telefone:  
 (77) 3611-8896
 
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-SSJdeBarreiras-VaraFederalCiveleCriminal 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
 
@@ -1521,6 +1795,9 @@ E-mail: 01vara.bmp@trf1.jus.br
 
 Telefone:  
 (77) 3481-2026
+
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
 
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-SSJdeBomJesusdaLapa-VaraFederalCiveleCriminal 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
@@ -1532,6 +1809,9 @@ E-mail: 01vara.bmp@trf1.jus.br
 Telefone:  
 (77) 3481-2026
 
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-SSJdeBomJesusdaLapa-VaraFederalCiveleCriminal 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
 
@@ -1541,6 +1821,9 @@ E-mail: 01vara.bmp@trf1.jus.br
 
 Telefone:  
 (77) 3481-2026
+
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
 
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-SSJdeBomJesusdaLapa-VaraFederalCiveleCriminal 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
@@ -1555,6 +1838,9 @@ Telefones:
 (74) 99963-2212
 Adm. SESAP - (74) 98816-0246
 
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-SSJdeCampoFormoso-VaraFederalCiveleCriminal  
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
 
@@ -1564,6 +1850,9 @@ E-mail: 01vara.eus@trf1.jus.br
 
 Telefones:  
 (73)   3261-7070
+
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
 
 Agendamento de *cargas/vistas processos físicos, mediante prévio agendamento* no site: https://outlook.office365.com/owa/calendar/SSJEUS01VARA1VaraFederaldeEunpolisBA@trf1.jus.br/bookings/ 
 
@@ -1577,6 +1866,9 @@ E-mail: 01vara.eus@trf1.jus.br
 Telefones:  
 (73)   3261-7070
 
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
 Agendamento de *cargas/vistas processos físicos, mediante prévio agendamento* no site: https://outlook.office365.com/owa/calendar/SSJEUS01VARA1VaraFederaldeEunpolisBA@trf1.jus.br/bookings/ 
 
 Balcão Virtual: *09 às 16h*https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-SSJdeEunapolis-VaraFederalCiveleCriminalal 
@@ -1589,6 +1881,9 @@ E-mail: 01vara.eus@trf1.jus.br
 Telefones:  
 (73)   3261-7070
 
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
 Agendamento de *cargas/vistas processos físicos, mediante prévio agendamento* no site: https://outlook.office365.com/owa/calendar/SSJEUS01VARA1VaraFederaldeEunpolisBA@trf1.jus.br/bookings/ 
 
 Balcão Virtual: *09 às 16h*https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-SSJdeEunapolis-VaraFederalCiveleCriminalal 
@@ -1600,6 +1895,9 @@ Feira de Santana,"*Subseção Judiciária de Feira de Santana*
 (75) 3221-6274 das 9:00h às 15:00h
 (75) 3623-1682 das 9:00h às 15:00h
 (75) 3221-7929 das 9:00h às 15:00h
+
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
 
 *1ª Vara*
 01vara.fsa@trf1.jus.br 
@@ -1624,6 +1922,9 @@ feira,"*Subseção Judiciária de Feira de Santana*
 (75) 3623-1682 das 9:00h às 15:00h
 (75) 3221-7929 das 9:00h às 15:00h
 
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
 *1ª Vara*
 01vara.fsa@trf1.jus.br 
 
@@ -1647,6 +1948,9 @@ FERA DE SANTANA,"*Subseção Judiciária de Feira de Santana*
 (75) 3623-1682 das 9:00h às 15:00h
 (75) 3221-7929 das 9:00h às 15:00h
 
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
 *1ª Vara*
 01vara.fsa@trf1.jus.br 
 
@@ -1669,6 +1973,9 @@ FEIRA SANTANA,"*Subseção Judiciária de Feira de Santana*
 (75) 3221-6274 das 9:00h às 15:00h
 (75) 3623-1682 das 9:00h às 15:00h
 (75) 3221-7929 das 9:00h às 15:00h
+
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
 
 *1ª Vara*
 01vara.fsa@trf1.jus.br 
@@ -1694,6 +2001,9 @@ sepip.01vara.gnb@trf1.jus.br
 Telefone:
 (77) 99989-2194
 
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-SSJdeGuanambi-VaraFederalCiveleCriminal 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
 
@@ -1704,6 +2014,9 @@ E-mail: 01vara.ils@trf1.jus.br
 Telefones:
 (73) 99983-8319
 (73)   3634-7225
+
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
 
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-SSJdeIlheus-VaraFederalCiveleCriminal 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
@@ -1716,6 +2029,9 @@ Telefones:
 (73) 99983-8319
 (73)   3634-7225
 
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-SSJdeIlheus-VaraFederalCiveleCriminal 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
 
@@ -1726,6 +2042,9 @@ E-mail: 01vara.ils@trf1.jus.br
 Telefones:
 (73) 99983-8319
 (73)   3634-7225
+
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
 
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-SSJdeIlheus-VaraFederalCiveleCriminal 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
@@ -1741,6 +2060,9 @@ Telefones:
 (74) 98101-6858 - Plantão
 (74) 3641-3910 - Fixo
 
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-SSJdeIrece-VaraFederalCiveleCriminal 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
 
@@ -1755,12 +2077,18 @@ Telefones:
 (74) 98101-6858 - Plantão
 (74) 3641-3910 - Fixo
 
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-SSJdeIrece-VaraFederalCiveleCriminal 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
 
 Mais contatos no link: https://www.trf1.jus.br/sjba/enderecos-e-telefones/subsecao-judiciaria-de-irece"
 Itabuna,"*Subseção Judiciária de Itabuna*
 E-mail: sepju.itb@trf1.jus.br - SEPJU
+
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
 
 *1ª Vara*
 01vara.itb@trf1.jus.br
@@ -1788,6 +2116,9 @@ E-mail: 01vara.jee@trf1.jus.br
 Telefone:
 (73) 99981-6140
 
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-SSJdeJequie-VaraFederalCiveleCriminal   
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
 
@@ -1797,6 +2128,9 @@ E-mail: 01vara.jee@trf1.jus.br
 
 Telefone:
 (73) 99981-6140
+
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
 
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-SSJdeJequie-VaraFederalCiveleCriminal   
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
@@ -1808,6 +2142,9 @@ E-mail: 01vara.jzr@trf1.jus.br
 Telefone:
 (74) 99979-6340
 
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-SSJdeJuazeiro-VaraFederalCiveleCriminal 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
 Mais contatos no link: https://www.trf1.jus.br/sjba/enderecos-e-telefones/subsecao-judiciaria-de-juazeiro"
@@ -1817,6 +2154,9 @@ E-mail: 01vara.paf@trf1.jus.br
 Telefone:
 Celular: (75) 99968-0171
 Atendimento: (75) 3281-2387
+
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
 
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-SSJdePauloAfonso-VaraFederalCiveleCriminal 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual* 
@@ -1828,6 +2168,9 @@ E-mail: sepju.taf@trf1.jus.br
 Telefone:
 (73) 98176-1157
 
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-SSJdeTeixeiradeFreitas-VaraFederalCiveleCriminal 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
 
@@ -1838,6 +2181,9 @@ E-mail: sepju.taf@trf1.jus.br
 Telefone:
 (73) 98176-1157
 
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
 Balcão Virtual: *09 às 16h*  https://trf1-apps-balcao-virtual.azurefd.net/meeting/TRF1-SJBA-SSJdeTeixeiradeFreitas-VaraFederalCiveleCriminal 
 Se precisar de orientações sobre este canal de atendimento, digite *Balcão Virtual*
 
@@ -1846,6 +2192,9 @@ Vitória da Conquista,"*Subseção Judiciária de Vitória da Conquista*
 
 *Serviço de Conciliação* 
 Telefone:(77) 3423-8902
+
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
 
 *1ª Vara*
 E-mail: 01vara.vca@trf1.jus.br
@@ -1871,6 +2220,9 @@ Conquista,"*Subseção Judiciária de Vitória da Conquista*
 *Serviço de Conciliação* 
 Telefone:(77) 3423-8902
 
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
 *1ª Vara*
 E-mail: 01vara.vca@trf1.jus.br
 
@@ -1895,6 +2247,9 @@ vitoria da conquista,"*Subseção Judiciária de Vitória da Conquista*
 *Serviço de Conciliação* 
 Telefone:(77) 3423-8902
 
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
+
 *1ª Vara*
 E-mail: 01vara.vca@trf1.jus.br
 
@@ -1918,6 +2273,9 @@ vitória,"*Subseção Judiciária de Vitória da Conquista*
 
 *Serviço de Conciliação* 
 Telefone:(77) 3423-8902
+
+🧔🏻 Para *consulta detalhada do seu processo do JEF*, clique no link: 
+https://wa.me/557734238934  e siga as orientações.
 
 *1ª Vara*
 E-mail: 01vara.vca@trf1.jus.br
@@ -2981,7 +3339,11 @@ mandado,"🙎🏽 *Central de Mandados*
 autenticidade,"🙎🏽 Para conferir a *autenticidade de um documento gerado pelo PJE*, clique no link https://pje1g.trf1.jus.br/pje/Processo/ConsultaDocumento/listView.seam e informe o número do documento."
 verificar documento do pje,"🙎🏽 Para conferir a *autenticidade de um documento gerado pelo PJE*, clique no link https://pje1g.trf1.jus.br/pje/Processo/ConsultaDocumento/listView.seam e informe o número do documento."
 conferir documento,"🙎🏽 Para conferir a *autenticidade de um documento gerado pelo PJE*, clique no link https://pje1g.trf1.jus.br/pje/Processo/ConsultaDocumento/listView.seam e informe o número do documento."
-recesso,"*ATENÇÃO: Durante o Recesso Forense, compreendido o período de 20 de dezembro a 6 de janeiro (Lei n° 5.010/66), os serviços essenciais da área administrativa e os judiciais das unidades plantonistas (24ª Vara Federal e Secretaria Única das Turmas Recursais) funcionarão em regime de plantão nos dias úteis, em turno único, no horário das 9h às 15h* Clique no link https://portal.trf1.jus.br/sjba/comunicacao-social/imprensa/noticias/plantao-judicial-extraordinario-seg-a-sex-das-10-00-as-15-00-contatos.htm e acesse os *canais de atendimento disponíveis*. ‼️ Acompanhe as novas informações através da aba _AVISOS_ no Portal da SJBA https://portal.trf1.jus.br/sjba/comunicacao-social/imprensa/avisos/avisos.htm"
+recesso,"*ATENÇÃO: Durante o Recesso Forense, compreendido o período de 20 de dezembro a 6 de janeiro (Lei n° 5.010/66), os serviços essenciais da área administrativa e os judiciais das unidades plantonistas funcionarão em regime de plantão nos dias úteis, em turno único, no horário das 9h às 15h* Clique no link https://www.trf1.jus.br/sjba/plantao-judicial/plantao-judicial e acesse os *canais de atendimento disponíveis*. ‼️ Acompanhe as novas informações através da aba _AVISOS_ no Portal da SJBA https://www.trf1.jus.br/sjba/imprensa/avisos"
+receso,"*ATENÇÃO: Durante o Recesso Forense, compreendido o período de 20 de dezembro a 6 de janeiro (Lei n° 5.010/66), os serviços essenciais da área administrativa e os judiciais das unidades plantonistas funcionarão em regime de plantão nos dias úteis, em turno único, no horário das 9h às 15h* Clique no link https://www.trf1.jus.br/sjba/plantao-judicial/plantao-judicial e acesse os *canais de atendimento disponíveis*. ‼️ Acompanhe as novas informações através da aba _AVISOS_ no Portal da SJBA https://www.trf1.jus.br/sjba/imprensa/avisos"
+receço,"*ATENÇÃO: Durante o Recesso Forense, compreendido o período de 20 de dezembro a 6 de janeiro (Lei n° 5.010/66), os serviços essenciais da área administrativa e os judiciais das unidades plantonistas funcionarão em regime de plantão nos dias úteis, em turno único, no horário das 9h às 15h* Clique no link https://www.trf1.jus.br/sjba/plantao-judicial/plantao-judicial e acesse os *canais de atendimento disponíveis*. ‼️ Acompanhe as novas informações através da aba _AVISOS_ no Portal da SJBA https://www.trf1.jus.br/sjba/imprensa/avisos"
+receco,"*ATENÇÃO: Durante o Recesso Forense, compreendido o período de 20 de dezembro a 6 de janeiro (Lei n° 5.010/66), os serviços essenciais da área administrativa e os judiciais das unidades plantonistas funcionarão em regime de plantão nos dias úteis, em turno único, no horário das 9h às 15h* Clique no link https://www.trf1.jus.br/sjba/plantao-judicial/plantao-judicial e acesse os *canais de atendimento disponíveis*. ‼️ Acompanhe as novas informações através da aba _AVISOS_ no Portal da SJBA https://www.trf1.jus.br/sjba/imprensa/avisos"
+ressesso,"*ATENÇÃO: Durante o Recesso Forense, compreendido o período de 20 de dezembro a 6 de janeiro (Lei n° 5.010/66), os serviços essenciais da área administrativa e os judiciais das unidades plantonistas funcionarão em regime de plantão nos dias úteis, em turno único, no horário das 9h às 15h* Clique no link https://www.trf1.jus.br/sjba/plantao-judicial/plantao-judicial e acesse os *canais de atendimento disponíveis*. ‼️ Acompanhe as novas informações através da aba _AVISOS_ no Portal da SJBA https://www.trf1.jus.br/sjba/imprensa/avisos"
 8,Saiba como funciona o processo na Justiça Federal. Clique no link https://drive.google.com/file/d/1RqLDWGmahTXf2X1BT9pIKtSRUpY2EIV9/view?usp=sharing e acesse a Cartilha de Termos usados na Justiça Federal!
 cartilha,Saiba como funciona o processo na Justiça Federal. Clique no link https://drive.google.com/file/d/1RqLDWGmahTXf2X1BT9pIKtSRUpY2EIV9/view?usp=sharing e acesse a Cartilha de Termos usados na Justiça Federal!
 cartilha de termos,Saiba como funciona o processo na Justiça Federal. Clique no link https://drive.google.com/file/d/1RqLDWGmahTXf2X1BT9pIKtSRUpY2EIV9/view?usp=sharing e acesse a Cartilha de Termos usados na Justiça Federal!
