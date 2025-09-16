@@ -1,6 +1,6 @@
 # ChatBot Jefinho e Juju
 
-Este é um bot de WhatsApp simples, desenvolvido usando a biblioteca [whatsapp-web.js](https://docs.wwebjs.dev/)) para responder automaticamente a mensagens baseadas em um arquivo CSV com palavras-chave e respostas predefinidas.
+Este é um bot de WhatsApp simples, desenvolvido usando a biblioteca [whatsapp-web.js](https://docs.wwebjs.dev/) para responder automaticamente a mensagens baseadas em um arquivo CSV com palavras-chave e respostas predefinidas.
 
 ## 📋 Requisitos
 
